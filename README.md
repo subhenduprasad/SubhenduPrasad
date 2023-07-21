@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/83/a6/f3/83a6f3096b9d6e439a31c848a504cb67.jpg)](https://rishavchanda.io
+[![MasterHead](https://i.pinimg.com/originals/66/4a/6a/664a6aca119ef80d70aa77f6b7b73c9e.jpg)](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Subhendu Prasad Hembram</h1>
 <h2 align="center">A passionate Data Scientist from India</h2>
