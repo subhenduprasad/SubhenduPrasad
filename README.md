@@ -20,8 +20,8 @@
 <p align="left">
 <a href="https://codepen.io/subhendu444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="subhendu444" height="30" width="40" /></a>
 <a href="https://twitter.com/subhendu933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhendu933" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhendu prasad hembram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhendu prasad hembram" height="30" width="40" /></a>
-<a href="https://fb.com/subhendu hembram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhendu hembram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhendu-prasad-hembram-23053b258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhendu prasad hembram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/subhendu.topu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhendu hembram" height="30" width="40" /></a>
 <a href="https://instagram.com/subhendu_45_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhendu_45_" height="30" width="40" /></a>
 </p>
 
