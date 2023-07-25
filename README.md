@@ -1,5 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/66/4a/6a/664a6aca119ef80d70aa77f6b7b73c9e.jpg)](https://rishavchanda.io
-)
+![MasterHead](https://i.pinimg.com/originals/66/4a/6a/664a6aca119ef80d70aa77f6b7b73c9e.jpg)
 <h1 align="center">Hi 👋, I'm Subhendu Prasad Hembram</h1>
 <h2 align="center">A passionate Data Scientist from India</h2>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rhpp2oa85jcuvfowem8sp0crcdmz0erwjzthx1xv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
